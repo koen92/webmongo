@@ -1,5 +1,5 @@
 import CodeFlask from 'codeflask';
-import 'codeflask/build/css/editor.min.css';
+//import 'codeflask/build/css/editor.min.css';
 
 function codeflask(element) {
   return new CodeFlask(element, {
